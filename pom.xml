@@ -79,7 +79,7 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<!-- 我的mysql版本是8.0.13，
 			1.3.6的带的老的mysql驱动不兼容8.0.13，所以在此指定版本号-->
-			<version>8.0.13</version>
+			<version>8.0.28</version>
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
